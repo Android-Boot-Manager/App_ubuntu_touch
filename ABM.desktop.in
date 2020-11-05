@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=Android Boot Manager
+Exec=qmlscene %U qml/Main.qml
+Icon=assets/logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
