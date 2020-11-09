@@ -1,5 +1,5 @@
 {
-    "name": "abm.luka177",
+    "name": "org.androidbootmanager.app",
     "description": "Dualboot solution for mobile devices",
     "architecture": "@CLICK_ARCH@",
     "title": "Android Boot Manager",
@@ -9,7 +9,7 @@
             "desktop":  "ABM.desktop"
         }
     },
-    "version": "1.0.0",
-    "maintainer": "Luka Panio <lukapanio@gmail.com>",
+    "version": "0.0.1",
+    "maintainer": "Luka Panio (and The Android Boot Manager project) <lukapanio@gmail.com>",
     "framework" : "ubuntu-sdk-16.04"
 }
